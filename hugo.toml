@@ -3,8 +3,12 @@ languageCode = 'en-us'
 title = 'NRCC'
 
 #theme = 'hugo-theme-techdoc'
-theme = 'beautifulhugo'
+theme = 'PaperMod'
 sectionPagesMenu = 'main'
+
+[params]
+defaultTheme = "light"
+showtoc = true
 
 [markup]
 defaultMarkdownHandler = "goldmark"

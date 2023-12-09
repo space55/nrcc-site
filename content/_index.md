@@ -44,6 +44,6 @@ NRCC thanks our generous sponsors for their support!
 
 # Contact Us
 
-Feel free to email the Board at [board@nrcc.coop](emailto:board@nrcc.coop).
+Feel free to email the Board at [board@nrcc.coop](mailto:board@nrcc.coop).
 
 Members are given access to the NRCC mailing list and Slack for general discussion and questions.

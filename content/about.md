@@ -21,4 +21,4 @@ NRCC was founded in the beginning of 2024 to provide services to homelabbers loo
 
 ## Initial Deployment
 
-The first deployment of NRCC resources was 
+The first deployment of NRCC resources was made to a datacenter used by one of the founders.
