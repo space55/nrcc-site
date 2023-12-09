@@ -13,9 +13,11 @@ We sometimes get asked these questions. Here are our answers!
 ## Hardware
 
 ### What are the racks like?
+
 We standardize on 19" racks, as is used across most datacenters worldwide.
 
 ### What kind of machine can I put in the racks?
+
 It must be a standard 19" rack-mountable server. Your server must be able to sit in the rack alone, i.e. not using a lower server for support. You can use a shelf, so long as it does not occupy more U's than you have been allotted. We do not allow tower servers within the racks.
 
 ### What should I bring when racking my server?
@@ -73,6 +75,7 @@ No, we do not operate nameservers at the moment.
 ## What can/can't I do?
 
 ### What am I allowed to host on my server at NRCC?
+
 At NRCC, you can host anything you'd like on one of your servers - as long as it's legal and doesn't get us into trouble. If it would cause issues with our vendors or sponsors, don't do it!
 
 ### Can I send spam from my server at NRCC?
