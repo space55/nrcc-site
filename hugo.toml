@@ -2,7 +2,8 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'NRCC'
 
-theme = 'hugo-theme-techdoc'
+#theme = 'hugo-theme-techdoc'
+theme = 'beautifulhugo'
 sectionPagesMenu = 'main'
 
 [markup]
