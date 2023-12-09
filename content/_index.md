@@ -2,6 +2,7 @@
 title = "NRCC Home"
 menu = "main"
 weight = 1
+description = "Northeast Regional Computational Cooperative (NRCC) Home"
 +++
 
 # NRCC

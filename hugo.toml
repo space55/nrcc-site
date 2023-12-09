@@ -6,13 +6,10 @@ theme = 'hugo-theme-techdoc'
 sectionPagesMenu = 'main'
 
 [markup]
-    defaultMarkdownHandler = "goldmark"
-    [markup.goldmark.renderer]
-        unsafe= true
-    [markup.tableOfContents]
-        startLevel = 1
-        endLevel = 6
-        ordered = false
-
-[params]
-menu_style = "open-menu"
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+startLevel = 1
+endLevel = 6
+ordered = false

@@ -1,6 +1,7 @@
 +++
 title = "About NRCC"
 menu = "main"
+description = "Learn more about NRCC"
 weight = 2
 +++
 
@@ -10,4 +11,14 @@ The NRCC was started when the founders realized that there is a lack of per-U ho
 
 # How it's going
 
-The NRCC has a growing membership
+The NRCC has a growing membership base and provides services to members across the Northeast United States.
+
+# Timeline
+
+## Foundation
+
+NRCC was founded in the beginning of 2024 to provide services to homelabbers looking for reliable sites to run servers.
+
+## Initial Deployment
+
+The first deployment of NRCC resources was 

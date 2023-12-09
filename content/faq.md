@@ -2,6 +2,8 @@
 title = "FAQ"
 menu = "main"
 weight = 3
+description = "Frequently Asked Questions"
+TableOfContents = true
 +++
 
 # Frequently Asked Questions
