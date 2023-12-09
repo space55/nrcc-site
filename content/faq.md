@@ -130,3 +130,11 @@ While we do monitor uptime of the network through automated checks, NRCC is not 
 ### Can NRCC host services for me on their servers?
 
 NRCC does not host member's services. In order for a service to be hosted within NRCC, the member must either use their own hardware or find another member willing to host for them.
+
+### I live far away from NRCC's locations. Can I ship you a server to rack for me?
+
+Please contact the board at board@nrcc.coop directly if you require rack-and-stack services.
+
+### What if I need remote hands?
+
+We try not to bother our datacenters' owners much. Therefore, if you need remote hands, please contact the board to find the best solution to the issue you are facing.

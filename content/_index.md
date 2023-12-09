@@ -14,7 +14,7 @@ NRCC is a non-profit member-owned cooperative, centered around hosting internet 
 
 # Membership
 
-Membership is available for everyone. There is a $50 yearly membership fee associated. This fee enables a person to purchase rack-units of space at one of our datacenters.
+Membership is available for everyone. There is a $50 yearly membership fee associated. This fee enables a person to purchase rack-units of space in NRCC-managed racks.
 
 ## Hosting Fee
 
