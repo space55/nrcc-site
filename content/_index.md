@@ -19,7 +19,7 @@ Membership is available to anyone. There is a $50 yearly membership fee associat
 
 ## Hosting Fee
 
-In addition to the $50 yearly membership fee, there is a hosting fee of $25 per rack unit per month. This fee is not mandatory to join NRCC - and only needs to be paid to lease space. All the other features of membership are available, even if you aren't placing equipment in our racks.
+In addition to the $50 yearly membership fee, there is a hosting fee of $40 per rack unit per month. This fee is not mandatory to join NRCC - and only needs to be paid to lease space. All the other features of membership are available, even if you aren't placing equipment in our racks.
 
 ## Membership Benefits
 
