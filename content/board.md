@@ -13,6 +13,8 @@ NRCC is a member-owned cooperative, managed by the board of directors.
 
 ### Miles Macchiaroli
 
+Miles is a homelabbing veteran, with over seven years of experience in systems networking and HPC environments, he leaves no stone unturned when it comes to bodging systems and software. Initially transitioning to collocating to protest local utility providers, now donates large portions of compute resources to scientific and medical research.
+
 ### Chris MacNaughton
 
 Chris has always had a fascination with computers from both a hardware and software perspective. He built his first computer at age 12, and started exploring programming not long after. Chris can often be found tinkering with different kinds of hardware or exploring the inner workings of interconnected networks.
