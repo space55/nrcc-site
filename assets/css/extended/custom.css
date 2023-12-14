@@ -1,0 +1,4 @@
+.logo a img,
+.logo a svg {
+    border-radius: 0;
+}
