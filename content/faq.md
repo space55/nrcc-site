@@ -90,7 +90,7 @@ Please don't send spam from your server at NRCC. We do not want our addresses pl
 
 ### How do you handle abuse complaints?
 
-We take abuse complaints very seriously. Please contact us at abuse@nrcc.coop with any complaints without delay.
+We take abuse complaints very seriously. Please contact us at board@nrcc.coop with any complaints without delay.
 
 ---
 
