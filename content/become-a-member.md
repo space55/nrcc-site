@@ -3,6 +3,7 @@ title = "Become a Member"
 menu = "main"
 description = "Become a member of NRCC"
 weight = 4
+draft = true
 +++
 
 To become a member of NRCC, simply pay the yearly membership fee at the link below. We partner with Stripe for payment processing - so you don't have to worry abut your personal information being mishandled.
