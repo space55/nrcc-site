@@ -8,10 +8,9 @@ sectionPagesMenu = 'main'
 
 [params]
 defaultTheme = "light"
-disableThemeToggle = true
 showtoc = true
 label.text = ''
-label.icon = 'images/nrcc-logo.svg'
+label.icon = 'images/nrcc-logo-grey.svg'
 
 [markup]
 defaultMarkdownHandler = "goldmark"
