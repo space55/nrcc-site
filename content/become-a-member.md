@@ -1,5 +1,5 @@
 +++
-title = "Become a NRCC Member"
+title = "Become a Member"
 menu = "main"
 description = "Become a member of NRCC"
 weight = 4
