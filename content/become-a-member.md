@@ -10,4 +10,4 @@ To become a member of NRCC, simply pay the yearly membership fee at the link bel
 
 [Purchase your membership here](https://buy.stripe.com/3cs0327Ok67weIg8ww)
 
-Questions? Comments? Concerns? Reach out to us at [board@nrcc.coop](mailto:board@nrcc.coop)
+Questions? Comments? Concerns? Reach out to us at board @ nrcc.coop
