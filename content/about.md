@@ -15,7 +15,7 @@ The NRCC has a growing membership base and provides services to members across t
 
 # Timeline
 
-Learn a little about how the NRCC came to be below
+Learn a little about how the NRCC came to be below.
 
 ## Inception
 
