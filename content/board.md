@@ -21,4 +21,4 @@ Chris has always had a fascination with computers from both a hardware and softw
 
 ### Eamonn Nugent
 
-Eamonn started programming from a young age, and quickly discovered homelabbing. With his first two servers purchased at fourteen, he taught himself Linux system administration, and was immediately hooked. He started running his own servers in a datacenter when the homelab outgrew his available space. Eamonn has a particular interest in tea and all things space-related.
+Eamonn started programming from a young age, and quickly discovered homelabbing. With his first two servers purchased at fourteen, he taught himself Linux system administration, and was immediately hooked. He started running his own servers in a datacenter when his homelab outgrew its available space. Eamonn has a particular interest in tea and all things space-related.

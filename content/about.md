@@ -19,7 +19,7 @@ Learn a little about how the NRCC came to be below.
 
 ## Inception
 
-Chris initially suggested the idea to Eamonn and Miles for a nonprofit cooperative in late 2023, whom immediately loved the idea. 
+Chris initially suggested the idea to Eamonn and Miles for a nonprofit cooperative in late 2023, who immediately loved the idea. 
 
 ## Foundation
 

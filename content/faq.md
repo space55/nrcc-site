@@ -16,7 +16,7 @@ We sometimes get asked these questions. Here are our answers!
 
 ### What are the racks like?
 
-We standardize on 19" racks, as is used across most datacenters worldwide.
+We standardize on 19" racks, as are used across most datacenters worldwide.
 
 ### What kind of machine can I put in the racks?
 
@@ -32,7 +32,7 @@ We will place a vinyl label on your server on a visible location. The label will
 
 ### How can I power cycle my machine?
 
-Your BMC, should support remote power cycling. We do not guarantee remote switchable outlets for servers.
+Your BMC should support remote power cycling. We do not guarantee remote switchable outlets for servers.
 
 ---
 
@@ -40,15 +40,15 @@ Your BMC, should support remote power cycling. We do not guarantee remote switch
 
 ### Are there special networking requirements for servers?
 
-We use standard RJ45 for our 1Gb copper switches, and SFP+ optics for our 10Gb fiber switches. As long as you can use one of these standards (dependent on the rack you are placed in), you should be set. Otherwise, we ask that you program your server to auto-negotiate link speed, and utilize static addresses for its IP. We do not run DHCP.
+We use standard RJ45 for our 1Gb copper switches. As long as you can use this standard, you should be set. We also ask that you program your server to auto-negotiate link speed, and utilize static addresses for its IP. We do not run DHCP.
 
 ### What kind of uplink will I have?
 
-The uplink to other servers within the rack will either be 1Gb copper or 10Gb fiber. For fiber, you must supply the optics yourself. We use LC-LC OM4 fiber. Your connection to the greater internet is dependent on the datacenter, but is otherwise unfiltered.
+The uplink to other servers within the rack will either be 1Gb copper. Your connection to the greater internet is dependent on the datacenter, but is otherwise unfiltered.
 
 ### How do I get my public IP address?
 
-When racking your server, you will be provided a public IP address by the NRCC. This address will be given in advance, and is dedicated to you.
+When racking your server, you will be provided a public IP address by NRCC. This address will be given in advance, and is dedicated to you.
 
 ### Do you support IPv6?
 
@@ -68,7 +68,7 @@ Absolutely! Do note, however, that we do not offer domain hosting services - tho
 
 ### How will I access my server's BMC?
 
-We have a VPN in place that allows access to the BMC network as needed.
+We have a VPN in place that allows access to the BMC network as needed. Instructions will be sent out before your server is racked.
 
 ### Do you operate nameservers?
 
@@ -78,11 +78,11 @@ No, we do not operate nameservers at the moment.
 
 ### What am I allowed to host on my server at NRCC?
 
-At NRCC, you can host anything you'd like on one of your servers - as long as it's legal and doesn't get us into trouble. If it would cause issues with our vendors or sponsors, don't do it!
+At NRCC, you can host anything you'd like on one of your servers - as long as it's legal and doesn't get us into trouble. If it would cause issues with our vendors or sponsors, don't do it! We do, however, reserve the right to terminate services to any member as necessary.
 
 ### Can I send spam from my server at NRCC?
 
-Please don't send spam from your server at NRCC. We do not want our addresses placed onto spam blacklists, as that could hurt a potential future member.
+Please don't send spam from your server at NRCC. We do not want our addresses placed onto spam blacklists, as that could hurt potential future members.
 
 ---
 
@@ -90,7 +90,7 @@ Please don't send spam from your server at NRCC. We do not want our addresses pl
 
 ### How do you handle abuse complaints?
 
-We take abuse complaints very seriously. Please contact us at board@nrcc.coop with any complaints without delay.
+We take abuse complaints very seriously. Please contact us at board @ nrcc.coop with any complaints without delay.
 
 ---
 
@@ -98,7 +98,7 @@ We take abuse complaints very seriously. Please contact us at board@nrcc.coop wi
 
 ### How can I enter the datacenter?
 
-At the moment, members must be escorted in the datacenter by a person authorized by NRCC (and our partners) to enter.
+At the moment, members must be escorted in the datacenter by a person authorized by NRCC (and our datacenter partners) to enter.
 
 ### How do members pay for their membership or rack units?
 
@@ -138,7 +138,7 @@ NRCC does not host member's services. In order for a service to be hosted within
 
 ### I live far away from NRCC's locations. Can I ship you a server to rack for me?
 
-Please contact the board at board@nrcc.coop directly if you require rack-and-stack services.
+Please contact the board at board @ nrcc.coop directly if you require rack-and-stack services.
 
 ### What if I need remote hands?
 

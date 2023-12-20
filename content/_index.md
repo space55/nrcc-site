@@ -23,9 +23,9 @@ In addition to the $50 yearly membership fee, there is a hosting fee of $40 per 
 
 ## Membership Benefits
 
-Members of the NRCC enjoy a series of privileges, such as:
+Members of NRCC enjoy a series of privileges, such as:
 - Access to the NRCC community
-- An invitation to the NRCC Slack
+- An invitation to NRCC's Discord
 - Voting rights for policy, financial, and technical decisions of the nonprofit
 
 ## Hosting Benefits
@@ -35,7 +35,7 @@ Those that choose to host a server (or multiple!) in one of our racks receive th
 - One unfiltered network drop
 - One out-of-band management network drop (for things like IPMI/iDRAC)
 - A public IPv4 address per server
-- Access to a dedicated channel in our Slack for those that lease space
+- Access to a dedicated channel in our Discord for those that lease space ("Hosting Members")
 
 # Sponsors
 
@@ -45,4 +45,4 @@ NRCC thanks our generous sponsors for their support!
 
 Feel free to email the Board at board @ nrcc.coop.
 
-Members are given access to the NRCC mailing list and Slack for general discussion and questions.
+Members are given access to the NRCC mailing list and Discord for general discussion and questions.
