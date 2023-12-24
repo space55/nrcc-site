@@ -10,7 +10,8 @@ sectionPagesMenu = 'main'
 defaultTheme = "light"
 showtoc = true
 label.text = ''
-label.icon = 'images/nrcc-logo-grey.svg'
+label.icon = '/images/nrcc-logo-grey.svg'
+favicon = '/images/favicon.ico'
 
 [markup]
 defaultMarkdownHandler = "goldmark"
