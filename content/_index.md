@@ -28,7 +28,8 @@ Learn more about our pricing on our [pricing](/pricing) page.
 Members of NRCC enjoy a series of privileges, such as:
 - Access to the NRCC community
 - An invitation to NRCC's Discord
-- Voting rights for policy, financial, and technical decisions of the nonprofit
+- Access to purchasing colocation space
+- Dividends from the cooperation
 
 ## Hosting Benefits
 
@@ -38,6 +39,7 @@ Those that choose to host a server (or multiple!) in one of our racks receive th
 - One out-of-band management network drop (for things like IPMI/iDRAC)
 - A public IPv4 address per server
 - Access to a dedicated channel in our Discord for those that lease space ("Hosting Members")
+- Voting rights for policy, financial, and technical decisions of the nonprofit
 
 # Sponsors
 

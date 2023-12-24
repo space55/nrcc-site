@@ -14,7 +14,7 @@ All members are billed an annual $50 fee, on the anniversary of their signing up
 Members of NRCC enjoy a series of privileges, such as:
 - Access to the NRCC community
 - An invitation to NRCC's Discord
-- Voting rights for policy, financial, and technical decisions of the nonprofit
+- Dividends from the cooperative
 
 # Hosting Membership
 
@@ -27,6 +27,7 @@ If a member chooses to lease space in the rack, they become a "Hosting Member." 
 - VPN into management network
 - 1 public IP (additional IPs available upon request)
 - 100W of power included for free per-U
+- Voting rights for policy, financial, and technical decisions of the nonprofit
 
 ## How Power Billing Works
 
@@ -45,5 +46,5 @@ As an example, if your server draws 1kW of power continuously, for a month, your
 | $50 per year | $50 per year + $50 per U per month|
 | Access to the NRCC community | Access to the NRCC community |
 | Access to NRCC members-only Discord channel | Access to NRCC hosting members-only Discord channel |
-| Voting rights | Voting rights |
+| Dividends | Voting rights + Dividends |
 | No servers in a rack | Your server(s) in a rack |
